@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rhema Mutethia</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Musician's Connect**
+- 🌍  I'm based in Nairobi, **Kenya**
+
+- 🔭 I’m currently working on **Musicians Connect**
 
 - 🌱 I’m currently learning **Java, Flutter**
 
