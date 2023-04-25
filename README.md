@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Musicians Connect**
 
-- 🌱 I’m currently learning **Java, Flutter**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **any interesting Java projects.**
 
