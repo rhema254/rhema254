@@ -6,9 +6,7 @@
 
 - 🌍  I'm based in **Nairobi, Kenya**
 
-- 🔭 I’m currently working on **Musicians Connect**
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Web Development Technologies**
 
 - 👯 I’m looking to collaborate on **any interesting Java projects.**
 
