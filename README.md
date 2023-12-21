@@ -6,7 +6,7 @@
 
 - 🌍  I'm based in **Nairobi, Kenya**
 
-- 🌱 I’m currently learning **Web Development Technologies**
+- 🌱 I’m currently learning **React for frontend development**
 
 - 👯 I’m looking to collaborate on **any interesting Java projects.**
 
