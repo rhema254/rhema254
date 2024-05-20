@@ -6,9 +6,9 @@
 
 - 🌍  I'm based in **Nairobi, Kenya**
 
-- 🌱 I’m currently learning **React for frontend development**
+- 🌱 I’m currently learning **Flask for Backend development**
 
-- 👯 I’m looking to collaborate on **any interesting Java projects.**
+- 👯 I’m looking to collaborate on **any interesting Web Development projects.**
 
 - 📫 How to reach me **rhemamutethia@gmail.com**
 
