@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask for Backend development and Python for Data Science**
 
-- 👯 I’m looking to collaborate on **any interesting Data Science and Web Development projects.**
+- 👯 I’m looking to collaborate on **any interesting Data Science and Software Development projects.**
 
 - 📫 How to reach me **rhemamutethia@gmail.com**
 
