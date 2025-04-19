@@ -6,7 +6,7 @@
 
 - 🌍  I'm based in **Nairobi, Kenya**
 
-- 🌱 I’m currently learning **Flask for Backend development and Python for Data Science**
+- 🌱 I’m currently learning **Flask for Backend development and Java SpringBoot for Backend and API Development.**
 
 - 👯 I’m looking to collaborate on **any interesting Cloud-based Software Development projects.**
 
