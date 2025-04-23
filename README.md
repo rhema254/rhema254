@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java SpringBoot for Backend and API Development.**
 
-- 👯 I’m looking to collaborate on **any interesting Cloud-based Software Development projects.**
+- 👯 I’m looking to collaborate on **any interesting cloud-native Software Development projects.**
 
 - 📫 How to reach me **rhemamutethia@gmail.com**
 
